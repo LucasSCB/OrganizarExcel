@@ -1,0 +1,1 @@
+Versão V3 corrigida para relatórios hospitalares com cabeçalhos repetidos.
